@@ -8,7 +8,7 @@
 
 # 📝About Me
 
-<h3 align="center">Sou uma profissional apaixonada por tecnologia, atualmente cursando Análise e Desenvolvimento de Sistemas na faculdade de tecnologia. Possuo experiência sólida em desenvolvimento front-end, com foco em habilidades avançadas em React, JavaScript, Next.js e TypeScript.</h3>
+<h3 align="center">I'm a professional with a passion for technology, currently studying Systems Analysis and Development at the Faculty of Technology. I have solid experience in front-end development, with a focus on advanced skills in React, JavaScript, Next.js and TypeScript.</h3>
 <br/><br/>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
