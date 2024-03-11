@@ -18,7 +18,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,css,reactnative&theme=light&perline=3" />
+<img src="https://skillicons.dev/icons?i=ts,react,nextjs,tailwind,mui,css,jest,reactnative&theme=light&perline=3" />
 </p>
 
 </td><td valign="top" width="33%">
